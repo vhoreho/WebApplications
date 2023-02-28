@@ -7,12 +7,6 @@ const songs = [
   },
   {
     group: "Scorpions",
-    name: "Send me of Ange;",
-    src: "./assets/send.mp3",
-    album: "./assets/album2.jpeg",
-  },
-  {
-    group: "Scorpions",
     name: "Wind of Change second version",
     src: "./assets/change.mp3",
     album: "./assets/album3.jpeg",
